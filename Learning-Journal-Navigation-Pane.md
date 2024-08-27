@@ -62,7 +62,7 @@ This repository contains my navigation pane exercise file that I created as part
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##What I learned📋
+##What I learned📋 *******************************************************************************************************************************************************************
 🟢I learned how to create and customize navigation panes in Excel.
 🟢This exercise improved my understanding of Excel's interface and features.
 
