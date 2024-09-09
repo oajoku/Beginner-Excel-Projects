@@ -1,4 +1,4 @@
-I took notes on a few concepts during the Excel Course I need to watch more videos on YouTube to better understand:
+I took notes on a few concepts during the Excel Course, I need to watch more videos on YouTube to understand better:
 Microsoft Excel Notes:
 1. Learn Relative, Absolute & Mixed cell reference in more detail.
 2. I don’t understand combining IF, AND, & OR functions combined*.
