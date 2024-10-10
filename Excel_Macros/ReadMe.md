@@ -5,7 +5,11 @@ This section showcases the use of macros to automate repetitive tasks. The main 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🟢 Bring in a Picture: Automates inserting and resizing an image within a defined area.
+
+
 🟢 Calculate Average: Automates the calculation of the average across selected cells.
+
+
 🟢 Relative Referencing Test: Tests how macros handle relative references between cells.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
