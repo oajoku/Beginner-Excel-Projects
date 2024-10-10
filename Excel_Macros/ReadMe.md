@@ -23,7 +23,14 @@ Challenges:
 I struggled with inserting images using macros. Initially, I set the macro key to Ctrl + Shift + R but faced issues. After three attempts (with Ctrl + Shift + Q and Ctrl + Shift + X), I successfully brought in a picture and resized it.
 Relative referencing was another challenge for me. It caused the macro to act on unintended cells (resulting in "#Div/0!" errors), likely because the macro keys were locked to the initial cells in the macros workbook.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Issues Encountered:
+I documented all questions and problems I faced along the way, such as difficulties with relative referencing, macros not working as expected, and confusion over Excel selecting the wrong cells. These problems were resolved with persistence and further practice.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 Lessons Learned:
 
